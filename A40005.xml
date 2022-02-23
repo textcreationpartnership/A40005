@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the bountiful loving-kindness of the Lord manifested to His hand-maid Mary Harris, who stood idle in the market-place, till the eleventh hour, yet afterwards received her penny : this is that none might despair : also a discovery of her sufferings through her disobedience and rebellion against God's precious truth, that none might presume, or harden their hearts in the day of God's visitation : as also, a few words of encouragement from experience, to any who knows the name of the Lord in the least measure, to fear the Lord, and trust in his mercies.</title>
+            <author>Forster, Mary, 1619?-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40005</idno>
+            <idno type="STC">Wing F1603A</idno>
+            <idno type="STC">ESTC R10779</idno>
+            <idno type="EEBO-CITATION">12927434</idno>
+            <idno type="OCLC">ocm 12927434</idno>
+            <idno type="VID">95585</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95585)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 692:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the bountiful loving-kindness of the Lord manifested to His hand-maid Mary Harris, who stood idle in the market-place, till the eleventh hour, yet afterwards received her penny : this is that none might despair : also a discovery of her sufferings through her disobedience and rebellion against God's precious truth, that none might presume, or harden their hearts in the day of God's visitation : as also, a few words of encouragement from experience, to any who knows the name of the Lord in the least measure, to fear the Lord, and trust in his mercies.</title>
+                  <author>Forster, Mary, 1619?-1686.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Mary Forster.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Forster, Mary, 1619?-1686.</term>
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95585:1"/>
+            <pb facs="tcp:95585:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Bountiful Loving-Kindneſs OF THE LORD, Manifeſted to His Hand-maid <hi>Mary Harris,</hi> who ſtood idle in the Market-Place, till the Eleventh Hour, yet afterwards received her Penny. This is that none might Diſpair.</p>
+            <p>ALSO, A Diſcovery of her Sufferings through her Diſobedience and Rebellion againſt God's Precious Truth, that none might preſume, or harden their Hearts in the Day of God's Viſitation.</p>
+            <p>As Alſo, A few Words of Encouragement from Experience, to any who knows the Name of the Lord in the leaſt meaſure, to fear the Lord, and truſt in his Mercies.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, and Sold by <hi>T. Sowle,</hi> at the <hi>Crooked-Billet</hi> in <hi>Holywell-Lane</hi> in <hi>Shoreditch,</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:95585:2"/>
+            <pb n="3" facs="tcp:95585:2" rendition="simple:additions"/>
+            <head>A Declaration of the bountiful Loving-kindneſs of the Lord, manifeſted to one who ſtood idle in the Market-place till the Eleventh Hour, yet received her Penny. This is that none might diſpair.</head>
+            <head type="sub">Alſo, a diſcovery of her Sufferings, through her diſobedi<g ref="char:EOLhyphen"/>ence and rebellion againſt God's precious Truth; that none might preſume or harden their Hearts in the Day of God's Viſitation.</head>
+            <p>A Maid, young and beautiful, that often went with her Re<g ref="char:EOLhyphen"/>lations to the Meetings of the People of God, called <hi>Quakers,</hi> and had a love raiſed in her Heart to the moſt preci<g ref="char:EOLhyphen"/>ous Truth, and alſo to them who indeed held it in a pure Con<g ref="char:EOLhyphen"/>ſcience; yet did not give up to the Obedience of Faith, but ſtill lived in the Cuſtoms and Faſhions of this Evil World, to the wounding and ſtifling of the precious Life of Jeſus Chriſt in her; but the ſame Love of the Lord that had begotten a tenderneſs in her, and raiſed up a love to Truth, followed her, and would not ſuffer her to ſit down in the World without trouble; for although ſhe was much taken notice of by them who loved vanity, and de<g ref="char:EOLhyphen"/>lighted in beauty more then vertue, and ſhe by this became fur<g ref="char:EOLhyphen"/>ther off from faithfulneſs, yet here ſhe muſt not take up her reſt; for the Lord viſited her with great weakneſs, and ſhe grew ill, and declined, and fell into a Conſumption, and lived in a conſume<g ref="char:EOLhyphen"/>ing ſtate about three years, outward means and medicines were uſed for her recovery; yet from firſt to laſt, not any thing that
+<pb n="4" facs="tcp:95585:3" rendition="simple:additions"/>was done to her, or for her, did her any good, as ſhe often declared, but ſhe ſtill grew weaker and weaker; and beſides this, ſhe had ſuch a ſoreneſs all over her poor Bones, as hath not been known in ſuch weakneſs, which being taken notice of by a Friend which was nearly related to her, ſhe ſaid; Surely, this is more then or<g ref="char:EOLhyphen"/>dinary, this is more immediately the Hand of the Lord upon thee, then is uſual, this is the Judgment of the Lord upon thee for thy Diſobedience; and ſhe being in a low condition, con<g ref="char:EOLhyphen"/>ſidered the matter, and the Lord ſet it upon her Heart, and ſhe cried unto the Lord for Mercy, (as ſhe ſaid, mightily) and it was ſhewed her one night, that if ſhe did not ſpeedily Repent, and ſubmit to God's precious Truth, ſhe ſhould be ſmitten with Lameneſs from Head to Foot; then did ſhe apply her Heart unto the Lord, and his faithful Meſſengers, (whoſe Feet are beautiful upon the Mountain of Holineſs, bringing the Glad-tydings of Salvation, unto the weary and heavy laden) ſaying, <hi>I have hardened my Heart at many a pre<g ref="char:EOLhyphen"/>cious Meeting when the Lord hath ſmitten me, and I have ſeen plainly the Lord would have gathered me; but I ſaid in my Heart, if I receive this, if I give up to it, I muſt be a</hi> Quaker, <hi>and I cannot be a</hi> Quaker; <hi>then</hi> (ſaid ſhe) <hi>would I take my Heart from attending upon the Miniſtration of Truth, and then my Heart became more hard, What ſhall I do</hi> (ſaid ſhe) <hi>that now I may receive the Faithful ſayings of the Servants of the Lord? Ah that my Heart were open, but it is ſhut and hard; when ſhall I find Mercy in this State!</hi> She remained for ſome time, and grew weaker and weaker in Body; and on the firſt Day ſhe took her Bed, ſhe was much under the Righteous Judgments of the Lord, and felt his Word in her Heart as a Fire; but the Lord in Judgment remembred Mercy, and having brought her very low, he ſhewed her the Childs ſtate, which ſhe with great delight deſired; and indeed ſhe became as a little Child, fit for the Kingdom of Heaven.</p>
+            <pb n="5" facs="tcp:95585:3" rendition="simple:additions"/>
+            <p>Then did the Lord rend the Vail, and ſhewed her his Glo<g ref="char:EOLhyphen"/>ry, and the preciouſneſs of his pure everlaſting Truth, and the Light ſhined out of Darkneſs, and in it ſhe ſaw Light, and received the Knowledge of God (whom to know is Life Eternal) and her Heart was filled with Joy, and her Mouth with Praiſes, and ſhe lay for many hours without the ſence of pain or weakneſs, ſounding forth the Praiſes of the Lord, re<g ref="char:EOLhyphen"/>fuſing to take any Cordials, or ought elſe to ſupport the natu<g ref="char:EOLhyphen"/>ral Spirits; ſaying, <hi>I am well, I feel no pain, I am full, my Cup runs over, I am filled as with Marrow and Fatneſs, I have ſeen his Glory, and taſted of his moſt precious Truth, and it is ſweet unto my taſte; Ah, how precious, how pure, is Gods Everlaſting Truth, nothing ſo pure, and they who indeed receive it, are made pure by it, praiſed be the Lord who hath made me partaker of it, and placed me amongſt his People: Ah, Bleſſed God, who hath given me cauſe to ſing aloud of thy praiſe;</hi> then ſome about her, ſeeing her very week, thought it might wear her too much, told her, ſhe might praiſe the Lord in her Heart, and bid her try if ſhe could ſleep; but ſhe ſaid, ſhe was well, and needed no ſleep, <hi>neither is my Mouth dry,</hi> ſaid ſhe, <hi>nor I faint;</hi> but ſhe was perſwaded to take ſomething, and ſo lay ſtill; but after ſome time ſhe ſaid, <hi>Surely I ſhould not have been ſtopt, but I will now try if I can ſleep,</hi> which ſhe did ſweetly; and in the morn<g ref="char:EOLhyphen"/>ing ſaid, <hi>Although I have ſlept, yet my Heart hath been exerciſ<g ref="char:EOLhyphen"/>ed in the Praiſes of the Lord;</hi> and that day lay very preciouſly, ſpeaking to ſeveral perſons as came to viſit her, to their ſeveral conditions, ſhewing to ſome, who lived in pleaſure, her Hands, ſaying, <hi>See here, the Lord hath made theſe Bones bare for my re<g ref="char:EOLhyphen"/>bellion, becauſe I would not ſubmit to his moſt precious Truth; he hath brought me to the duſt, and I muſt lay down this Body as a Sacrifice; Oh, do not you ſtand out, it will coſt you dear, if ever you find Mercy,</hi> (and ſuch like) then would ſhe ſing Praiſes to
+<pb n="6" facs="tcp:95585:4" rendition="simple:additions"/>the Lord, and declare much concerning the purity of Truth, exhorting all, who were not made partakers of it, ſpeedily to embrace it; and much more ſhe ſaid, which will be too much to relate.</p>
+            <p>On the next day, being very weak, and it was thought ſhe might have departed, ſhe called for ſome young Perſons that were related to her, and ſet before them their conditions, clearly, in the Light of our Lord Jeſus Chriſt, warning and exhorting them, praying for them, bleſſed them in the Spirit of diſcerning, which the Lord gave her in the day of his Pow<g ref="char:EOLhyphen"/>er; and when ſome Friends came to her that was in the fa<g ref="char:EOLhyphen"/>ſhion of the World, ſhe would ſay, <hi>What, Friends who know Gods precious Truth, put on their Hoods ſo, that is like me in my other life; Friends, who have received Gods precious Truth need no other adorning;</hi> and having ſpoken long in this wiſe, ſhe laid her ſelf in ſilence, waiting for her diſſolution, having ſaid, <hi>I ſhall ſhut mine Eyes and Sleep;</hi> but ſhe lay ſeveral weeks in great weakneſs after this, having her Heart exerciſed on this wiſe.</p>
+            <p>And if ſhe had ſpoken an unadviſed word, then would ſhe cry to the Lord, to waſh her throughout, and ſay, <hi>Judge me, Lord, judge me, with thy great Judgments; let nothing remain in me, or be ſpoken by me, but what is pure; ſearch me throughly: Ah, curſed be that nature, and that diſpoſition; this at firſt kept me from receiving Gods pure Truth, curſed be that diſpoſition;</hi> and lying longer then one would have thought one ſo weak could have lain, taking very little of any outward ſuſtenance; ſome would ſay to her, it may be thou mayſt recover; <hi>No, no,</hi> would ſhe ſay, <hi>I muſt lay down this body for my rebellion; in my other Life, if any had ſaid, I ſhould recover, it would for a little time ſeem to refreſh me; and if they had ſaid, ſurely, I could not live long,</hi> (or ſo) <hi>it would caſt me down; but now I long for death,
+<pb n="7" facs="tcp:95585:4" rendition="simple:additions"/>I muſt lay down this body; for,</hi> ſaid ſhe, <hi>when I received Gods pre<g ref="char:EOLhyphen"/>cious Truth, I received the ſentence of death;</hi> And this ſhe was very poſitive in all along, and when ſhe was preſwaded to be paſſive in this matter; ſhe ſaid, <hi>I have indeed cauſe enough to deſire life now, for the Lord hath made me partaker of his bleſſed Truth, and if I live, I know I ſhall bear a Teſtimony, a faithful Teſtimony for the Lord, and he hath placed me amongſt his People; and I ſhall have their company, this is deſirable; but I muſt lay down this body:</hi> great was her love to the Lord and his People; and when the Servants of the Lord came to her, it was ſuch a re<g ref="char:EOLhyphen"/>viving, that ſhe had not the ſence of her weakneſs, her Heart being overcome with the Love of the Lord, in his Servants, ſhe lay a rejoycing. Often was ſhe aſſaulted by the Enemy, ſome<g ref="char:EOLhyphen"/>times to deſire Life, ſometimes with worldly things, but ſhe would ſay (even in Gods Authority) <hi>Away, Satan, away, I de<g ref="char:EOLhyphen"/>ſie thee in the Name of the Lord, touch not that which is pure;</hi> and one time, when ſhe was under this temptation, a precious Ser<g ref="char:EOLhyphen"/>vant of the Lord coming to viſit her; <hi>Ah,</hi> (ſaid ſhe to him) <hi>now the Tempter flees, he cannot ſtand before thee;</hi> then after ſhe had been thus tryed, ſhe was uſually filled with joy in God, through whom ſhe had obtained victory; then would ſhe ſound forth the praiſes of the Lord. And grew ſtill more weak, and ſometimes would ſay, <hi>I am weak, and full of pain, but it is below me to complain;</hi> and with much patience, and comly behavi<g ref="char:EOLhyphen"/>our ſhe lay; and in the morning before her departure, ſhe called for ſeveral things to drink, and gaſped for breath, but ſaid, <hi>I ſhall not go ſo.</hi> And afterwards did, as it were, lay her ſelf forth in ſilence, waiting for her diſſolution; but at the coming in of a good Friend ſhe revived, and lived till Evening, and about half an hour before her departure ſhe was taken with a very great trembling, and ſeemed to be ſomewhat troubled, it was ſaid by one near her; what's the matter, what aileſt
+<pb n="8" facs="tcp:95585:5" rendition="simple:additions"/>thou? <hi>I fear,</hi> ſaid ſhe, <hi>whether it be a true Spirit, or a Tempta<g ref="char:EOLhyphen"/>tion;</hi> it was ſaid to her, what meaneſt thou? art thou in any doubt as concerning the Truth of which thou art made par<g ref="char:EOLhyphen"/>taker? <hi>No, no,</hi> ſaid ſhe, <hi>that's Gods pure and Everlaſting Truth, the Truth which the People of God, called</hi> Quakers, <hi>are made per<g ref="char:EOLhyphen"/>tukers of, and for which they ſuffer that is everlaſting, that is the true Spirit, and their God is my God; and although I ſee it not now as I have ſeen it, yet I bring in my Teſtimony that's the Truth that ſhall abide for ever; that's pure, and nothing that is defiled muſt be ſheltred under it; that's the Truth which enlightens every man that cometh into the World: The little Seed in me is become great, great, great; Bleſſed be God who hath placed me among his People, and I poſſeſs what they poſſeſs; and when the Faithful lie as I lie, my Portion will be their Potion; and my Cup is full, it runs over, over, over:</hi> Then ſhe breathed a little thicker about the ſpace of one quarter of an hour, and without groan or ſigh, or the leaſt motion, ſhe ſhut her eyes and ſlept. Glory be to God for ever.</p>
+         </div>
+         <div type="part">
+            <pb n="9" facs="tcp:95585:5" rendition="simple:additions"/>
+            <head>A few Words of Encouragement from Ex<g ref="char:EOLhyphen"/>perience, to any who know the Name of the Lord, in the leaſt Meaſure, to Fear the Lord and Truſt in his Mer<g ref="char:EOLhyphen"/>cies.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>IN the Living ſence of Gods Love and manifold Mercies wherewith he hath compaſſed me, as one every ſide, it hath been often (yea, very often) upon, and in my heart, What ſhall I render, or wherwith ſhall I appear before the Lord? And the Anſwer was, and is, <hi>Keep low in his Fear, and do thy Duty, declare his Goodneſs, ſpread forth his Praiſes, that they who have not ſuch experience of his Mercy, may by thy Decla<g ref="char:EOLhyphen"/>ration, ſpeak good of his Name, and be encouraged to fear him for ever, and truſt in his Mercies.</hi>
+            </p>
+            <p>Then firſt, whoſoever thou art that ſhalt read theſe Lines, and haſt Hungrings and Thirſtings begotten in thee after Righteouſneſs, fear the Lord, and truſt in his Mercies, and thou ſhalt be ſatisfied; let the Lord God of Heaven and Earth be thy fear, and let him be thy dread; yea, keep in the fear of the Lord all the day long, and that will purifie thy Heart, and make it a fit receptacle for the manifeſtation of Gods Love and Power.</p>
+            <pb n="10" facs="tcp:95585:6" rendition="simple:additions"/>
+            <p>Or art thou in any doubt concerning the Truth, or the Way or Manifeſtation of it as it now appears; wait thou in God's Fear, and truſt in his Mercy, and aſſuredly the Light will ſhine forth, it will ariſe and expel the Darkneſs, and diſcover to thee the Path of Life, in which the wafaring man, although a Fool, ſhall not err.</p>
+            <p>Again, Art thou in God's Eternal Truth, poor, low and little, ſeeing and knowing little of the myſtery of Godlineſs, having little faith, love or zeal for God, his Truth and People; yet ſayſt thou in thy Heart, this little is of the right kind, and I would not part with it for all the World? Well, Friend, be content with thy Portion, and keep in the pure fear of the Lord, wait on him, and truſt in his Mercies, and he will ariſe in thee, and increaſe thy ſtore; yea, when he hath by his righteous Judgments, as with a Rod of ſmall Cords, whipt out the Buyers and Sellers out of his Temple, and the Houſe is clean, and thou fit for it, the time of refreſhment being come, he will aſſuredly open the well-ſprings of Life in thee, and fill full thy Cup with the overflowings of his vertue, and thou ſhalt praiſe his Name even ſo long as thou abideſt in his fear; for the Lord is not a hard Maſter, but he anſwereth the deſire of every living one; and this my Soul knows right well, let him be glorified for ever, who hath given me the Deſires of my Heart, ſo that I muſt praiſe his Name whilſt I have a being.</p>
+            <p>But art thou now increaſed in Divine Subſtance, ſo that thou canſt ſay, now the Eyes of my Underſtanding is enlight<g ref="char:EOLhyphen"/>ned, and thoſe things which before were hard and dark as to me, are now become plain and eaſie, and now I ſee, (not men like Trees) but in the Light of the Lord I ſee light, not as in a glaſs darkly, but now I ſee face to face, the ſhadows are over and gone, and now I can ſay my Redeemer liveth, and
+<pb n="11" facs="tcp:95585:6" rendition="simple:additions"/>the Eye which the Lord hath opened ſeeth him; yea, and he ſtandeth laſt upon my Earth; the Lord my God having caſt out the ſtrong man that did keep the Houſe, now he liveth and reigneth in me, and opens even the Flood-gates of his everlaſt<g ref="char:EOLhyphen"/>ing Loving-kindneſs in me; yea, he feedeth me with the Bread that cometh down from Heaven that ſhall never periſh, and I drink and am refreſhed, yea, I drink abundantly of the River of Pleaſure that is at the right hand of the Father; and I drink of the Wine that is well refined new in the Kingdom of Heaven; may I not now ſit down; being perfected in that Love which caſteth out fear? may I not now keep holy day in God, being in a ſtate above the fear, ſo much exhorted to? Ah, Friend, whoſoever thou art, that ſhall thus ſay in thy heart, be not high-minded, but fear, and remember thou keep holy the Sabbath day: Art thou at reſt in God, oh, ſanctifie the Sabbath day, and keep it holy, for this the Lord requires; and ſtand upon thy watch continually, and fear to the end, leſt after all this thou grow careleſs, and the exalted ſpirit get up, and thou fall from thy ſtedfaſtneſs, and ſo loſe thy Crown: Bleſſed is he who feareth always.</p>
+            <p>Further, art thou in a low eſtate as to things of the World, having many depending on thee, and knows not which way to turn thee, as to an outward livelihood? Ah, fear the Lord, and truſt him over all, and he that feeds the Ravens, and cloathes the Lillies, that can neither ſow nor ſpin, caſt thy care upon him, and aſſuredly thee and thine ſhall be fed, <hi>For the Earth is the Lord's and the fulneſs thereof;</hi> its the Lyons that ſhall want, and ſuffer hunger, <hi>But they who fear the Lord ſhall want nothing that is good;</hi> this have I ſeen and known, and this is writ for the encouragement, comfort and ſtrengthning of them who are of a fearful heart; keep in God's fear, be faithful to his re<g ref="char:EOLhyphen"/>quirings, be not careful, but do thy duty, and Heaven and Earth
+<pb n="12" facs="tcp:95585:7" rendition="simple:additions"/>ſhall ſooner paſs away, then the Lord fail to ſupply thy neceſ<g ref="char:EOLhyphen"/>ſities; yea, <hi>He ſhall bleſs thee in thy Basket, and thy Store; he ſhall be with thee in thy going out, and in thy coming in, he will cauſe all to proſper thou ſetteſt thy hand unto:</hi> yea, he ſhall bleſs thy Children within thee, and he ſhall Crown thee with his Peace, which paſſeth all underſtanding, even in thy daily la<g ref="char:EOLhyphen"/>bour, as thou art found waiting upon him; and he ſhall alſo repleniſh thy heart, and as thou keepeſt thy Eye and Heart to him, thou ſhall be freſh and green, bringing forth fruit in thy old age, and thy laſt dayes ſhall be thy beſt days; and thus ſhall it be with them who fear the Lord, and faithfully wait up<g ref="char:EOLhyphen"/>on him in a chearful diligence, expecting each day their daily Bread from the hand of the Lord, <hi>who giveth liberally, and up<g ref="char:EOLhyphen"/>braideth not;</hi> Oh, my Soul praiſe thou the Lord, (in the ſence of his Love, and enjoyment of his Mercies) and let all that is within praiſe his holy Name, for his Mercies are manifold, and his compaſſion never faileth; this day is the Scripture ful<g ref="char:EOLhyphen"/>filled, and God is known indeed to be the Father to the father<g ref="char:EOLhyphen"/>leſs, and the Husband to the widow; yea, the Maſter of that Family which calleth upon his Name hath provided all things needfull, ſo that it may well be ſaid, <hi>What lacked ye?</hi> and he hath, yea, God himſelf hath recompenced, into the Boſom, e<g ref="char:EOLhyphen"/>ven an hundred fold, whatſoever hath been given up, or loſt for his ſake and the Goſpels; ſurely, ſurely he hath given good meaſure preſſed down, and running over; of this I and mine are living Witneſſes, and we have no cauſe to complain, but great cauſe to praiſe and magnifie his Name, and to live to him for ever and ever; Let all thy Works praiſe thee, O Lord; So, even ſo ſaith my Soul.</p>
+            <closer>
+               <signed>Mary Forſter.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:95585:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
